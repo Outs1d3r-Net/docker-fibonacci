@@ -26,7 +26,6 @@ $ sudo bash install-docker.sh
 
 ## Depois realize a criação do docker apartir do dockerfile:  
 ```
-$ mkdir devops
 $ git clone https://github.com/Outs1d34r-Net/docker-fibonacci.git
 $ cd docker-fibonacci
 $ sudo docker build -t nomequalquerparaminhaimage .
